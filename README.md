@@ -1,1 +1,1 @@
-"# Code With Curious - Python Projects" 
+# Code With Curious - Python Projects
